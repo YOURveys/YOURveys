@@ -2,8 +2,12 @@
   "development": {
     "username": "root",
     "password": "root",
-    "database": "yourvey",
+    "database": "database_production",
     "host": "127.0.0.1",
+    "username": "m9vce66vm7yvaknx",
+    "password": "w692lyhrk5x09g8w",
+    "database": "tj92lbez6qxsdxvj",
+    "host": "yhrz9vns005e0734.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
